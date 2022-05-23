@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello on Learn R</title>
+    <link>https://mn-r.netlify.app/</link>
+    <description>Recent content in hello on Learn R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mn-r.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MDH training</title>
+      <link>https://mn-r.netlify.app/post/training.html</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/post/training.html</guid>
+      <description>Coming to MDH soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Get started</title>
+      <link>https://mn-r.netlify.app/page/get_started.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/get_started.html</guid>
+      <description>Trial - Dip your toes in your browser Online courses MDH examples scripts Recordings Learn R from inside R Book reading MDH training    code {color: #FF69B4 !</description>
+    </item>
+    
+    <item>
+      <title>Help!</title>
+      <link>https://mn-r.netlify.app/page/help.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/help.html</guid>
+      <description>Cheatsheets 
+Use cheatsheets to refresh your memory and find new functions or plots.
+ In RStudio go to Help &amp;gt; Cheatsheets  Data Transformation :: Helpful functions for cleaning and arranging your data.</description>
+    </item>
+    
+    <item>
+      <title>Install &amp; Update</title>
+      <link>https://mn-r.netlify.app/page/install.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/install.html</guid>
+      <description>Install R Install RStudio Install R packages  Add R packages  Update R packages    code {color: #FF69B4 !</description>
+    </item>
+    
+    <item>
+      <title>R community</title>
+      <link>https://mn-r.netlify.app/page/community.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/community.html</guid>
+      <description>The party is growing  Growth of R groups since 2011  
+Online Communities
+ #rstats on Twitter RStudio’s question forum R Weekly shares weekly highlights from across the R world R Ladies meetups  R Ladies Global Twitter  R for data science learning community</description>
+    </item>
+    
+  </channel>
+</rss>

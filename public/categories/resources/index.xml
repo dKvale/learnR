@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resources on Learn R</title>
+    <link>https://mn-r.netlify.app/categories/resources.html</link>
+    <description>Recent content in resources on Learn R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mn-r.netlify.app/categories/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning resources</title>
+      <link>https://mn-r.netlify.app/post/learning.html</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/post/learning.html</guid>
+      <description>Online tutorials, videos, courses, and more&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

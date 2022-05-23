@@ -1,2 +1,5 @@
-# learnR
-R training for M N Data Analysis :rocket: :computer: :bar_chart: 
+# learn R  
+
+R training for Minnesota Data Analysis :rocket: :computer: :bar_chart: 
+
+https://mn-r.netlify.com/

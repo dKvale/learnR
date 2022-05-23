@@ -1,0 +1,18 @@
+---
+title: MDH training
+date: '2022-05-12'
+showDate: false
+showAuthor: false
+summary: 'Coming to MDH soon...'
+slug: 'training'
+categories: [training]
+tags: [training]
+type: ''
+imageWidth: '27%'
+imageFloat: 'left'
+---
+
+
+![](../images/day1_bb8_sq.png){width="240" style="float: right; margin-left: 34px; margin-top: 70px; margin-bottom: 64px;"}
+
+Coming soon to MDH...

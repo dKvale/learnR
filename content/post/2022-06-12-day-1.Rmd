@@ -1,9 +1,9 @@
 ---
-title: MDH training
+title: Training
 date: '2022-05-12'
 showDate: false
 showAuthor: false
-summary: 'Coming to MDH soon...'
+summary: 'Coming soon...'
 slug: 'training'
 categories: [training]
 tags: [training]

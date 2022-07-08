@@ -117,7 +117,7 @@ knitr::opts_chunk$set(echo = T)
 
 <br>
 
-## MDH training
+## Training
 
 Coming soon to a galaxy near you...
 

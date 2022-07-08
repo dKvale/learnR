@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mn-r.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MDH training</title>
+      <title>Training</title>
       <link>https://mn-r.netlify.app/post/training.html</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mn-r.netlify.app/post/training.html</guid>
-      <description>Coming to MDH soon&amp;hellip;</description>
+      <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mn-r.netlify.app/page/get_started.html</guid>
-      <description>Trial - Dip your toes in your browser Online courses MDH examples scripts Recordings Learn R from inside R Book reading MDH training    code {color: #FF69B4 !</description>
+      <description>Trial - Dip your toes in your browser Online courses MDH examples scripts Recordings Learn R from inside R Book reading Training    code {color: #FF69B4 !</description>
     </item>
     
     <item>
@@ -50,7 +50,7 @@ Use cheatsheets to refresh your memory and find new functions or plots.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mn-r.netlify.app/page/community.html</guid>
-      <description>The party is growing  Growth of R groups since 2011  
+      <description>The growth of R user groups worldwide  
 Online Communities
  #rstats on Twitter RStudio’s question forum R Weekly shares weekly highlights from across the R world R Ladies meetups  R Ladies Global Twitter  R for data science learning community</description>
     </item>

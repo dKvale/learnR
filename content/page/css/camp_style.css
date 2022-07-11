@@ -407,8 +407,7 @@ div.alert a {
     line-height: 1;
     vertical-align: middle;
     background-color: gray;
-    border-radius: 6px;
     flex-shrink: 0;
-    margin-right: 20px;
+    margin-right: 16px;
     box-shadow: 0 0 0 1px gray;
 }

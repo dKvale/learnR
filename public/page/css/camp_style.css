@@ -396,3 +396,19 @@ div.alert a {
      background-color: #f0f7fb;
      border-left: solid 4px #3498db;
 }
+
+
+.avatar {
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+    display: inline-block;
+    overflow: hidden;
+    line-height: 1;
+    vertical-align: middle;
+    background-color: gray;
+    border-radius: 6px;
+    flex-shrink: 0;
+    margin-right: 20px;
+    box-shadow: 0 0 0 1px gray;
+}

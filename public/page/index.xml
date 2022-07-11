@@ -6,6 +6,15 @@
     <description>Recent content in Pages on Learn R</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mn-r.netlify.app/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Day 1 - AM</title>
+      <link>https://mn-r.netlify.app/page/day1_am.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/day1_am.html</guid>
+      <description>Good morning! 1 What’s R?  Introductions 2 RStudio - A Grand Tour Why R? 3 Show &amp;amp;  Tell 4 Names and things 5 Read data 6 Add packages 📦 (R Apps) 7 ggplot2  Get help!</description>
+    </item>
+    
+    <item>
       <title>Get started</title>
       <link>https://mn-r.netlify.app/page/get_started.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

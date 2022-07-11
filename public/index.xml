@@ -5,14 +5,23 @@
     <link>https://mn-r.netlify.app/</link>
     <description>Recent content in hello on Learn R</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 12 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mn-r.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://mn-r.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Training</title>
-      <link>https://mn-r.netlify.app/post/training.html</link>
-      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <title>Day 1</title>
+      <link>https://mn-r.netlify.app/post/day-1.html</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mn-r.netlify.app/post/training.html</guid>
-      <description>Coming soon&amp;hellip;</description>
+      <guid>https://mn-r.netlify.app/post/day-1.html</guid>
+      <description>Power on your droids people, it’s time to get started. Junk Boss Plutt is up to no-good and we’ve got scrap to find&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Day 1 - AM</title>
+      <link>https://mn-r.netlify.app/page/day1_am.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/day1_am.html</guid>
+      <description>Good morning! 1 What’s R?  Introductions 2 RStudio - A Grand Tour Why R? 3 Show &amp;amp;  Tell 4 Names and things 5 Read data 6 Add packages 📦 (R Apps) 7 ggplot2  Get help!</description>
     </item>
     
     <item>

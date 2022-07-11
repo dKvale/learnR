@@ -25,6 +25,15 @@
     </item>
     
     <item>
+      <title>Day 1 - PM</title>
+      <link>https://mn-r.netlify.app/page/day1_pm.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/day1_pm.html</guid>
+      <description>1 Porg tables 2 select() 3 Sort with arrange() R BINGO! 4 filter() 5 mutate() 6 Save our data 7 Plots with ggplot2 8 Shutdown complete  New data -&amp;gt; New project!</description>
+    </item>
+    
+    <item>
       <title>Get started</title>
       <link>https://mn-r.netlify.app/page/get_started.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

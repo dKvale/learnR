@@ -67,3 +67,9 @@ uglyURLs = true
     name = "Help"
     url = "page/help.html"
     weight = 4
+
+[[menu.main]]
+    name = "Agenda"
+    url = "page/agenda.html"
+    weight = 5
+    

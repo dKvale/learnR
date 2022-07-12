@@ -36,15 +36,21 @@ source("https://raw.githubusercontent.com/MPCA-air/r-modules/master/R/hook_add_m
 # Good morning! {-}
 <hr class="hr2">
 
-![](../images/nien_nunb_sq.jpg){class="avatar border" style="border: 2px; float: left; margin-left: 5%;"}
+![](../images/nien_nunb_sq.jpg){class="avatar border" style="border: 2px; float: left; margin-left: 1%;"}
 
 <img src="../images/maz_kanata_sq.png" class="avatar" style="border: 2px; margin-left: 12px; margin-bottom: 42px;">
 
-We like __R__.
+<img src="../images/jarjar_sq.png" class="avatar" style="border: 2px; margin-left: 12px; margin-bottom: 42px;">
 
-We aren't computer scientists and that's okay! 
+<img src="../images/ackbar_sq.png" class="avatar" style="border: 2px; margin-left: 12px; margin-bottom: 42px;">
 
-We make lots of mistakes. Mistakes are funny. You can laugh with us.
+<img src="../images/yoda_sq.png" class="avatar" style="border: 2px; margin-left: 12px; margin-bottom: 42px;">
+
+We like __R__ and data.
+
+We aren't computer scientists -- and that's okay! 
+
+We will make lots of mistakes. Mistakes are funny. Please laugh along with us.
 
 <br><br><hr class="hr2">
 
@@ -52,7 +58,7 @@ We make lots of mistakes. Mistakes are funny. You can laugh with us.
 
 # What's R? 
 <hr>
-```{r candy, child='X:/Agency_Files/Outcomes/Risk_Eval_Air_Mod/_Air_Risk_Evaluation/R/R_Camp/modules/ggplot_examples/candy.Rmd'}
+```{r candy, child='../data/modules/ggplot_examples/candy.Rmd', eval=TRUE}
 ```
 
 

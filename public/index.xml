@@ -16,12 +16,21 @@
     </item>
     
     <item>
+      <title>Agenda</title>
+      <link>https://mn-r.netlify.app/page/agenda.html</link>
+      <pubDate>Sat, 08 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mn-r.netlify.app/page/agenda.html</guid>
+      <description>R Camp || Day 1 Morning: 9:00am-12:00 (3 hrs) || Planets visited: Jakku || Begin Jedi training. || 1. Install and update R || 2. Project launch. || Create an R script and&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Day 1 - AM</title>
       <link>https://mn-r.netlify.app/page/day1_am.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mn-r.netlify.app/page/day1_am.html</guid>
-      <description>Good morning! 1 What’s R?  Introductions 2 RStudio - A Grand Tour Why R? 3 Show &amp;amp;  Tell 4 Names and things 5 Read data 6 Add packages 📦 (R Apps) 7 ggplot2  Get help!</description>
+      <description>pre  code.sourceCode { white-space: pre; position: relative; } pre  code.sourceCode  span { display: inline-block; line-height: 1.25; } pre  code.</description>
     </item>
     
     <item>

@@ -2,7 +2,7 @@
 title: Agenda
 subtitle: ''
 date: '2018-12-08'
-summary: 'R Camp || Day 1 Morning: 9:00am-12:00 (3 hrs) || Planets visited: Jakku || Begin Jedi training. || 1. Install and update R || 2. Project launch. || Create an R script and...'
+summary: 'R Camp || Day 1 Morning: 9:00am-12:00 || Begin Jedi training. || 1. Install and update R || 2. Project launch. || Create an R script and...'
 showDate: false
 showAuthor: false
 slug: 'agenda'
@@ -41,7 +41,7 @@ enableEmoji: true
 ## R Camp
 
 MPCA    
-LaFayette something///??
+LaFayette something///??  
 St Paul, MN 55720  
 
 </div>
@@ -116,8 +116,6 @@ Packages: `dplyr`, `lubridate`
 
 # Day 2
 
-Planets visited: `Endor and Jakku`
-
 <div class = "row">
 <div class = "col-md-6">
 
@@ -172,22 +170,18 @@ Packages: `openair`
 
 
 # Day 3
-Planets visited: `Ahch-To`, `Earth`
-
-> Your turn!
 
 <div class = "row">
 <div class = "col-md-6">
+
 **Morning** | _8:30-11:45am_  
+
+> Questions and Review
 
 1. Join GitHub
 1. Share your data, code, and plots
-
-__Questions / Review__
-
-3. Plot, plot, plot...
-
-
+1. Rmarkdown demo
+    - Generate Web, Word and PDF reports
 
 Packages: `tidycensus`, `tigris`, `sf`, `leaflet`
 
@@ -203,10 +197,7 @@ Packages: `tidycensus`, `tigris`, `sf`, `leaflet`
     - Create a summary table
     - Compare years or sites
     - Chart & map the data 
-    - Multiple paths to choose from
 1. Put script and results in __Rmarkdown__  
-1. Share with the world
-    - Generate Web, Word and PDF documents
 1. __BONUS Material__
     - Messy data 
         - Gather a wide table with hundreds of columns into 1 column
@@ -220,7 +211,6 @@ Packages: `tidycensus`, `tigris`, `sf`, `leaflet`
 ### 🐈🐈 Concatulations!! 🐱🐱
 
 6. Receive your well deserved accolades, prizes and certificates
-
 
 </div>
 </div>
